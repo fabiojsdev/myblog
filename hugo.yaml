@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: https://fabiojsdev.netlify.app/
+title: fabiojsdev
 
 # import hextra as module
 module:
@@ -18,9 +18,7 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
-      weight: 1
+
     - name: About
       pageRef: /about
       weight: 2
