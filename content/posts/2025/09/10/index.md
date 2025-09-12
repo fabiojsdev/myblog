@@ -2,7 +2,7 @@
 title: "Meu primeiro post"
 date: 2025-09-10T23:00:00
 draft: false
-tags: ["Tag1", "Tag2"]
+tags: ["primeiro", "post"]
 categories: ["Categoria"]
 ---
 

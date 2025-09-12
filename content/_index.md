@@ -1,8 +1,8 @@
 ---
-title: "Bem-vindo(a)"
+title: "Indice"
 date: 2025-09-10T23:00:00
 draft: false
-tags: ["Tag1", "Tag2"]
+tags: ["Bem-vindo(a)", "Indice"]
 categories: ["Categoria"]
 ---
 ## 2025 - Setembro
@@ -10,3 +10,5 @@ categories: ["Categoria"]
 
 
 - [Meu Primeiro Post](/posts/2025/09/10/)
+
+- [Considerações minhas sobre o Omarchy](/posts/2025/09/11)
